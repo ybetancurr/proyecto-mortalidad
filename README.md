@@ -59,3 +59,21 @@ La app quedará disponible en `http://localhost:8050`
 - Dash 2.17
 - Plotly 5.22
 - Pandas 2.2
+
+## Gráficas principales
+
+### Distribución geográfica
+<img width="1173" height="504" alt="image" src="https://github.com/user-attachments/assets/cc2033b3-fe73-40a6-8d0b-ffe5c913d625" />
+
+### Tendencia Mensual | Ciudades más violentas
+<img width="1208" height="531" alt="image" src="https://github.com/user-attachments/assets/2f0a9ec6-160b-4b8a-b5cc-62bbd1a29c1a" />
+
+### Menor índice de mortalidad | Top 10 Causas de muerte
+<img width="1208" height="596" alt="image" src="https://github.com/user-attachments/assets/9782dca5-eb2c-487e-af79-ddce021dfa80" />
+
+
+
+
+
+
+
